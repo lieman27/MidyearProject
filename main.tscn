@@ -42,7 +42,7 @@ _data = {
 "walk_up": SubResource("Animation_2af74")
 }
 
-[node name="Node2D" type="Sprite2D"]
+[node name="main" type="Sprite2D"]
 texture_filter = 1
 position = Vector2(493.333, 196.333)
 scale = Vector2(5.58333, 5.58333)
